@@ -1,0 +1,7 @@
+node_modules/
+.env
+user-data/
+reports/
+data/lookup.json
+test-results/
+.DS_Store

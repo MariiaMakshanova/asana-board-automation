@@ -1,0 +1,5 @@
+https://alpha-shop.example 3000
+[https://beta-store.example/pt/] 1500
+[multi-geo.example](https://multi-geo.example) 500
+fallback-only.example 200
+unknown.example 100

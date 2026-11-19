@@ -1,0 +1,13 @@
+{
+  "website": [
+    { "domain": "alpha-shop.example", "brand": "Alpha Shop", "geo": ["DE"], "team": "A" },
+    { "domain": "beta-store.example", "brand": "Beta Store", "geo": ["GB"], "team": "B" },
+    { "domain": "multi-geo.example", "brand": "Multi", "geo": ["DE", "FR", "IT"], "team": "A" },
+    { "domain": "conflict.example", "brand": "Gamma", "geo": ["ES"], "team": "A" }
+  ],
+  "partner": [
+    { "domain": "alpha-shop.example", "brand": "ALPHA shop", "geo": ["DE", "EN"], "team": "C" },
+    { "domain": "conflict.example", "brand": "Delta", "geo": ["ES"], "team": "C" },
+    { "domain": "no-geo.example", "brand": "Epsilon", "geo": [], "team": "C" }
+  ]
+}
